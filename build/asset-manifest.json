@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/React-Course/static/css/main.d793e2d8.css",
-    "main.js": "/React-Course/static/js/main.ab2d937a.js",
-    "index.html": "/React-Course/index.html",
-    "main.d793e2d8.css.map": "/React-Course/static/css/main.d793e2d8.css.map",
-    "main.ab2d937a.js.map": "/React-Course/static/js/main.ab2d937a.js.map"
+    "main.css": "/anxicoper/React-Course.git/static/css/main.d793e2d8.css",
+    "main.js": "/anxicoper/React-Course.git/static/js/main.ab2d937a.js",
+    "index.html": "/anxicoper/React-Course.git/index.html",
+    "main.d793e2d8.css.map": "/anxicoper/React-Course.git/static/css/main.d793e2d8.css.map",
+    "main.ab2d937a.js.map": "/anxicoper/React-Course.git/static/js/main.ab2d937a.js.map"
   },
   "entrypoints": [
     "static/css/main.d793e2d8.css",
